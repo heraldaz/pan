@@ -1,0 +1,5 @@
+blowfish.o: blowfish.cc blowfish.h blowfish_cyphers.h
+
+blowfish.h:
+
+blowfish_cyphers.h:
